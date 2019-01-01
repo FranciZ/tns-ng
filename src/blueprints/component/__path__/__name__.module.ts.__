@@ -1,0 +1,23 @@
+import { NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
+import { NativeScriptCommonModule } from 'nativescript-angular/common';
+import { TNSFontIconModule } from 'nativescript-ngx-fonticon';
+import { {{COMPONENT_NAME}}RoutingModule } from './{{lowercase COMPONENT_NAME}}.routing.module';
+import { {{COMPONENT_NAME}}Component } from './{{lowercase COMPONENT_NAME}}.component';
+
+@NgModule({
+  imports: [
+    NativeScriptCommonModule,
+    {{COMPONENT_NAME}}RoutingModule,
+    TNSFontIconModule.forRoot({
+      icon: './fonts/style.css',
+      ion: './fonts/ionicons.css'
+    })
+  ],
+  declarations: [
+    {{COMPONENT_NAME}}Component
+  ],
+  schemas: [
+    NO_ERRORS_SCHEMA
+  ]
+})
+export class {{COMPONENT_NAME}}Module {}

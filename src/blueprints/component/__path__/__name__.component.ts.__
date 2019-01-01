@@ -1,6 +1,5 @@
-import { Component, OnInit, ViewChild, ElementRef } from '@angular/core'
-import { RouterExtensions } from 'nativescript-angular/router'
-
+import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
+import { RouterExtensions } from 'nativescript-angular/router';
 
 @Component({
     moduleId: module.id,
@@ -10,15 +9,14 @@ import { RouterExtensions } from 'nativescript-angular/router'
 })
 export class {{COMPONENT_NAME}}Component implements OnInit {
 
-    @ViewChild('scrollView') scrollView: ElementRef
+    @ViewChild('scrollView') scrollView: ElementRef;
 
-    private isLoading = true
+    private isLoading = true;
 
     constructor(
         private router: RouterExtensions,
     ) { }
 
     ngOnInit() { }
-
 
 }

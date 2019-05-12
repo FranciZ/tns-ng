@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1efa41a-6a5b-48af-b2d4-4d8b162a2244" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.css.__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__" beforeDir="false" afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.android.css.__" beforeDir="false" afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.android.css.__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ios.css.__" beforeDir="false" afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ios.css.__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__" beforeDir="false" afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__" beforeDir="false" afterPath="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,16 +20,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="835">
+              <caret line="78" column="76" selection-start-line="78" selection-start-column="76" selection-end-line="78" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__name__.service.ts.__" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.css.__">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.android.css.__">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" selection-start-column="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blueprints/service/__name__.service.ts.__">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -39,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".npmignore" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.npmignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -48,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__name__.component.ts.__" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -57,25 +70,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__name__.module.ts.__" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ios.css.__">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="4" column="77" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__name__.routing.module.ts.__" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__name__.component.html.__" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.html.__">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -91,14 +113,18 @@
       <find>app</find>
       <find>prefix</find>
       <find>.css</find>
-      <find>scss</find>
-      <find>modifyComponentTs</find>
       <find>create</find>
       <find>result</find>
       <find>&quot;</find>
       <find>css</find>
       <find>src</find>
       <find>service</find>
+      <find>scss</find>
+      <find>args</find>
+      <find>COMPONENT_COMMON_STYLE_URL</find>
+      <find>__dirname</find>
+      <find>modifyComponentTs</find>
+      <find>COMPONENT_NAME</find>
     </findStrings>
     <replaceStrings>
       <replace>.scss</replace>
@@ -113,39 +139,25 @@
       <list>
         <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__" />
         <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts__" />
+        <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.android.css.__" />
+        <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ios.css.__" />
         <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__" />
         <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__" />
-        <option value="$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.android.css.__" />
         <option value="$PROJECT_DIR$/src/index.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="811" />
+    <option name="width" value="2244" />
+    <option name="height" value="1335" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,12 +215,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.ns.project" value="true" />
+    <property name="js.ns.project.flavor" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,35 +263,38 @@
       <workItem from="1543738470649" duration="32000" />
       <workItem from="1543738522299" duration="2699000" />
       <workItem from="1544517885577" duration="87000" />
+      <workItem from="1546350514702" duration="542000" />
+      <workItem from="1549352452730" duration="1950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7331000" />
+    <option name="totallyTimeSpent" value="9823000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <frame x="0" y="23" width="2560" height="1335" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="NativeScript" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32913166" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2636103" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Nativescript Palette" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15103339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="NativeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18986323" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Nativescript Palette" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,43 +303,13 @@
       <list>
         <option value="$PROJECT_DIR$/../elevator/elevator-app/src/app/login/login.module.js" />
         <option value="$PROJECT_DIR$/../elevator/elevator-app/src/app/login/login.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-detail-edit/my-list-selector/my-list-selector.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-detail-edit/my-list-selector/my-list-selector-modal-view.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-detail-edit/my-image-add-remove/my-image-add-remove.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/app.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/app-routing.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/app.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/shared/config.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/shared/firebase.common.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-list.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/cars-routing.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/cars.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-detail-edit/car-detail-edit.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-detail-edit/constants.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/shared/car-edit.service.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/shared/car.service.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/shared/car.model.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/cars/car-detail/car-detail.component.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/main.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/shared/shared.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/shared/utils/dialog.util.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/startup-list/startup-list.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/startup-list/startup-list.routing.module.js" />
-        <option value="$PROJECT_DIR$/../elevator/elevator-app-ns/src/app/startup-list/startup-pinned-item/startup-pinned-item.component.js" />
+        <option value="$PROJECT_DIR$/../loco/loco-app-5/src/modals/modal-featured/modal-featured.module.js" />
+        <option value="$PROJECT_DIR$/../loco/loco-app-5/src/modals/modal-featured/modal-featured.component.js" />
+        <option value="$PROJECT_DIR$/../loco/loco-app-5/src/modals/modal-featured/modal-featured.routing.module.js" />
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blueprints/service/__name__.service.ts.__">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -339,27 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.html.__">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -367,178 +331,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.css.__">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.html.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="14" lean-forward="true" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.html.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.html.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.npmignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.html.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blueprints/service/__name__.service.ts.__">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ios.css.__">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.android.css.__">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.component.ts.__">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.module.ts.__">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="77" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blueprints/component/__path__/__name__.routing.module.ts.__">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="78" column="76" selection-start-line="78" selection-start-column="76" selection-end-line="78" selection-end-column="76" />
         </state>
       </provider>
     </entry>
